@@ -13,7 +13,6 @@
 </ol>
 
 ![alt test](/Images/WordCloud.png)
-![alt test](/Images/WordCloud2.png)
 
 <hr>
 
@@ -28,6 +27,8 @@
  <li>Explore document similarity for text77 and based on the result identify who may have written text 77.</li>
  <li>Since Hamilton wrote all but one of these texts (56 which is Unknown) we can identify that Hamilton may have been the author of text 77.</li>
 </ol>
+
+![alt test](/Images/WordCloud2.png)
 <hr>
 
 <h6>Part III: Topic Modeling</h6>
