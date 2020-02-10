@@ -34,7 +34,7 @@
  
  ![alt test](/Images/DocSim.png)
  
- <li>Since Hamilton wrote all but one of these texts (56 which is Unknown) we can identify that Hamilton may have been the author of text 77.</li>
+ <li>Since Hamilton wrote all but one of these texts (56 which is Unknown) and 76 and 75 are the only text with a similarity above .5 we can predict that Madison wrote text 77</li>
 </ol>
 
 
