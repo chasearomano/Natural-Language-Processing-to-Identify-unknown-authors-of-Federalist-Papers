@@ -77,7 +77,7 @@
  
  ![alt test](/Images/Prediction.png)
  
- The final prediction agrees with the prior thought that Madison wrote text 77.  It also predicts that Madison wrote 3 of the 12 Unknown papers.
+ The final model predicts that Madison wrote 3 of the 12 Unknown papers.
  
 </ol>
 <hr>
