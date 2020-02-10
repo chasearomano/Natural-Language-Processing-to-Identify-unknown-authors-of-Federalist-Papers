@@ -5,6 +5,12 @@
 <hr>
 
 <h6>Part I: Initial Exploration</h6>
+<ol>
+  <li>Papers included in the data set include papers written by Hamilton, Jay, Madison, Hamilton & Madison, and Unknown.  Narrow down to papers written by Hamilton, Madison, and Unknown.</li>
+  <li>Order the Papers based on Author, Remove “To the People of the State of New York: “ , and establish the corpus and initial DFM Matrix.</li>
+  <li>Conduct some simple frequency analysis</li>
+  <li>Visualize the most frequent terms</li>
+</ol>
 
 <hr>
 
