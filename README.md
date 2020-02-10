@@ -1,2 +1,3 @@
-# Natural-Language-Processing-to-Identify-unknown-authors-of-Federalist-Papers
-Using NLP to identify the authors of 12 unknown federalist papers 
+# Exploring Unknown Authours <br> for 12 Federalist Papers
+
+### By Chase Romano
