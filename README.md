@@ -11,7 +11,7 @@
   <li>Conduct some simple frequency analysis</li>
   <li>Visualize the most frequent terms</li>
 </ol>
-![alt test](Images/WordCloud.png)
+![Repo List](Images/WordCloud.png)
 <hr>
 
 <h6>Part II: Exploratory Analyses with Similarity and Clustering</h6>
