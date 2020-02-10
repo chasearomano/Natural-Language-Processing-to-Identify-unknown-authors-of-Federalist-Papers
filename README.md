@@ -12,7 +12,7 @@
   <li>Visualize the most frequent terms</li>
 </ol>
 
-![alt test](/Images/WordCloud.PNG)
+![alt test](/Images/WordCloud.png)
 
 <hr>
 
