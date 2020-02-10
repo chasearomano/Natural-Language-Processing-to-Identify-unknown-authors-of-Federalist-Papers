@@ -51,7 +51,7 @@
   <li>Calculate the document-topic probabilities</li>
   <li>View the document Probabilities in a table</li>
   
-   ![alt test](/Images/DocProd.png)
+   ![alt test](/Images/DocProb.png)
   
 </ol>
 <hr>
