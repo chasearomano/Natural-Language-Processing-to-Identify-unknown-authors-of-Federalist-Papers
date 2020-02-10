@@ -24,12 +24,19 @@
   <li>Remove some very frequent words</li>
   <li>Control sparse terms: to further remove some very infrequent words</li>
    <li>Perform document clustering and explore results from clustering analyses</li>
+ <li>Explore document similarity for text77 and based on the result identify who may have written text 77.</li>
+ <li>Since Hamilton wrote all but one of these texts (56 which is Unknown) we can identify that Hamilton may have been the author of text 77.</li>
 </ol>
  
 <hr>
 
 <h6>Part III: Topic Modeling</h6>
-
+<ol>
+  <li>You can explore with varying k numbers, I chose to show 8, below are the Term-topic probabilities.</li>
+  <li>Visualize most common terms in each topic</li>
+  <li>Calculate the document-topic probabilities</li>
+  <li>View the document Probabilities in a table</li>
+</ol>
 <hr>
 
 <h6>Part IV: Predicting Authorship</h6>
