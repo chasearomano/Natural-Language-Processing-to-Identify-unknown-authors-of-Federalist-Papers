@@ -44,8 +44,15 @@
 <ol>
   <li>You can explore with varying k numbers, I chose to show 8, below are the Term-topic probabilities.</li>
   <li>Visualize most common terms in each topic</li>
+ 
+ 
+ ![alt test](/Images/TopicMod.png)
+ 
   <li>Calculate the document-topic probabilities</li>
   <li>View the document Probabilities in a table</li>
+  
+   ![alt test](/Images/DocProd.png)
+  
 </ol>
 <hr>
 
@@ -54,9 +61,21 @@
   <li>Prepare the corpus by adding the ID and author columns.</li>
   <li>We will first generate SVD columns based on the entire corpus.  Pre-process the training corpus, further remove very infrequent words, and weight the predictiv DFM by tf-idf.</li>
   <li>Perform SVD for dimension reduction and choose the number of reduced dimensions as 10</li>
+ 
+  ![alt test](/Images/SVD1.png)
+ 
   <li>Add the author information as the first column (cut off at six to give a better display)</li>
+  
+  ![alt test](/Images/SVD2.png)
+  
  <li>Split the data into training & test.  Typically we use random data partition, however, given our specific dataset, we manually split the dataset.  Training dataset contains papers with known author information and the test dataset contains papers with unknown author information.</li>
   <li>Need to drop the unused unknown level in the training dataset, build a logistic model based on the training dataset, and compare model prediction with known authorships</li>
+  
+  ![alt test](/Images/ConfMat.png)
+  
  <li>Predict authorship for the test dataset and View results</li>
+ 
+ ![alt test](/Images/Prediction.png)
+ 
 </ol>
 <hr>
