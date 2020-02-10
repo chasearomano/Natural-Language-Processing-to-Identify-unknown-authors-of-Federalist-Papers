@@ -11,7 +11,7 @@
   <li>Conduct some simple frequency analysis</li>
   <li>Visualize the most frequent terms</li>
 </ol>
-
+![alt text](https://github.com/chasearomano/Natural-Language-Processing-to-Identify-unknown-authors-of-Federalist-Papers/blob/master/WordCloud.png)
 <hr>
 
 <h6>Part II: Exploratory Analyses with Similarity and Clustering</h6>
