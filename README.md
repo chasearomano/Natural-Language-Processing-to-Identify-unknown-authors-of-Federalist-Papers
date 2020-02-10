@@ -4,7 +4,7 @@
 
 <hr>
 
-<h6>Part I: Initial Explorationt</h6>
+<h6>Part I: Initial Exploration</h6>
 
 <hr>
 
