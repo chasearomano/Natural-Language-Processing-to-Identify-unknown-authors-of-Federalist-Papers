@@ -21,14 +21,13 @@
 <ol>
   <li>Remove Stop words and perform stemming.</li>
   <li>Add more user-defined stop words based on knowledge of the text and create an updated Word Cloud</li>
- ![alt test](/Images/WordCloud.png)
   <li>Remove some very frequent words</li>
   <li>Control sparse terms: to further remove some very infrequent words</li>
    <li>Perform document clustering and explore results from clustering analyses</li>
  <li>Explore document similarity for text77 and based on the result identify who may have written text 77.</li>
  <li>Since Hamilton wrote all but one of these texts (56 which is Unknown) we can identify that Hamilton may have been the author of text 77.</li>
 </ol>
- 
+  ![alt test](/Images/WordCloud.png)
 <hr>
 
 <h6>Part III: Topic Modeling</h6>
