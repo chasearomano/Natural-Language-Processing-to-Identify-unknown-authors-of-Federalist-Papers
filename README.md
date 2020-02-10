@@ -25,7 +25,7 @@
   <li>Remove some very frequent words</li>
   <li>Control sparse terms: to further remove some very infrequent words</li>
    <li>Perform document clustering and explore results from clustering analyses</li>
-  ![alt test](/Images/Cluster.png)
+  ![alt test](/Images/Cluster.png) 
 </ol>
 
  
