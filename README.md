@@ -34,7 +34,7 @@
  
  ![alt test](/Images/DocSim.png)
  
- <li>Since Hamilton wrote all but one of these texts (56 which is Unknown) we can predict that Madison wrote text 77</li>
+ <li>Since Hamilton wrote all but one of these texts (56 which is Unknown) we can predict that Hamilton wrote text 77</li>
 </ol>
 
 
