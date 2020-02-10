@@ -21,7 +21,6 @@
 <ol>
   <li>Remove Stop words and perform stemming.</li>
   <li>Add more user-defined stop words based on knowledge of the text and create an updated Word Cloud</li>
- ![alt test](Images/WordCloud2.png)
   <li>Remove some very frequent words</li>
   <li>Control sparse terms: to further remove some very infrequent words</li>
    <li>Perform document clustering and explore results from clustering analyses</li>
