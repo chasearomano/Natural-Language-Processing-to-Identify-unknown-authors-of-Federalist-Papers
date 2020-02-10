@@ -27,7 +27,6 @@
    <li>Perform document clustering and explore results from clustering analyses</li>
   ![alt test](/Images/Cluster.png) 
 </ol>
-![alt test](/Images/WordCloud2.png)
  
 <hr>
 
