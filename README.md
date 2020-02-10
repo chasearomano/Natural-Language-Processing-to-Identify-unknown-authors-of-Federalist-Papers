@@ -77,7 +77,7 @@
  
  ![alt test](/Images/Prediction.png)
  
- The final model predicts that Madison wrote 3 of the 12 Unknown papers.
+ The final model predicts that Madison wrote 3 of the 12 Unknown papers (Papers 51, 62, and 63) 
  
 </ol>
 <hr>
