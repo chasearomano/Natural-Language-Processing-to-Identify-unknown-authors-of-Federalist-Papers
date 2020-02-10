@@ -13,6 +13,7 @@
 </ol>
 
 ![alt test](/Images/WordCloud.png)
+![alt test](/Images/WordCloud2.png)
 
 <hr>
 
