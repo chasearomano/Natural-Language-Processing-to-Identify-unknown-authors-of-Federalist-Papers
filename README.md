@@ -12,6 +12,8 @@
   <li>Visualize the most frequent terms</li>
 </ol>
 
+![alt test](/Images/WordCloud.PNG)
+
 <hr>
 
 <h6>Part II: Exploratory Analyses with Similarity and Clustering</h6>
