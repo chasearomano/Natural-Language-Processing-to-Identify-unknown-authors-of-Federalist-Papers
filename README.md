@@ -27,12 +27,17 @@
   <li>Remove some very frequent words</li>
   <li>Control sparse terms: to further remove some very infrequent words</li>
    <li>Perform document clustering and explore results from clustering analyses</li>
+   
+   ![alt test](/Images/Cluster.png)
+   
  <li>Explore document similarity for text77 and based on the result identify who may have written text 77.</li>
+ 
+ ![alt test](/Images/DocSim.png)
+ 
  <li>Since Hamilton wrote all but one of these texts (56 which is Unknown) we can identify that Hamilton may have been the author of text 77.</li>
 </ol>
 
-![alt test](/Images/WordCloud2.png)
-![alt test](/Images/Cluster.png)
+
 <hr>
 
 <h6>Part III: Topic Modeling</h6>
